@@ -9,11 +9,11 @@ The wrong answer is selected. Выбран неверный ответ.
 ![image](https://github.com/user-attachments/assets/717ca0d7-eb72-4e98-abcb-6ba8b056a480)
 
 ---
-The correct answer is selected. Выбран верный ответ
+The correct answer is selected. Выбран верный ответ.
 
 ![image](https://github.com/user-attachments/assets/625c4891-0f91-422c-986a-4df31ffd8a9b)
 
 ---
-Reuslt. Результат
+Result. Результат.
 
 ![image](https://github.com/user-attachments/assets/b70d68d1-f710-43bf-ab6b-733129a6e9bc)
